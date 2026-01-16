@@ -2,7 +2,6 @@
 
 A Myntra homepage UI clone built using only HTML and CSS. This project recreates the layout and visual structure of Myntra’s landing page including the navbar, banners, product sections, category grid, and a detailed footer. Built for learning and practicing real-world UI cloning with clean structure and styling.
 
-Disclaimer: This project is for educational/portfolio use only. Myntra is a trademark of its respective owner. This project is not affiliated with Myntra.
 
 ## Project Overview
 
