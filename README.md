@@ -41,11 +41,10 @@ This is a frontend-only project made to improve HTML structure and CSS positioni
 ## Project Structure
 
 Myntra-Clone/
-│
-├── index.html # Main HTML file
-├── styles.css # Styling file
-├── images/ # Images used in the project
-└── README.md # Project documentation
+1.  index.html # Main HTML file
+2.  styles.css # Styling file
+3.  images/ # Images used in the project
+4.  README.md # Project documentation
 
 ## How to Run Locally
 
@@ -71,8 +70,7 @@ All branding and assets belong to their respective owners.
 This project is not intended for commercial use.
 
 
-## Author
+## Developer
 **Grishma C.D**  
-Frontend Developer | MERN Stack Learner | ML Enthusiast
 
 
