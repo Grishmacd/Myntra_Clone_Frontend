@@ -76,9 +76,6 @@ nav ul{
     margin-top: 10px;
     margin-bottom: 30px;
 }
-    
-
-
 .rising_stars_img1{
     height: 480px;
     position: relative;
@@ -181,7 +178,6 @@ height: 480px;
 }
 .category-container{
     position: relative;
-  
     height: 1500px;
 }
  .category-heading{
@@ -442,7 +438,6 @@ hr{
 }
 
 .phone{
-
   text-align: right;
   color:grey;
   margin-top: 80px;
@@ -454,4 +449,247 @@ hr{
 .myntra-footer strong{
     color: black;
 }
+
+@media (max-width: 600px) {
+
+  .header {
+    height: 60px;
+  }
+  .logo img {
+    height: 35px;
+    margin-left: 15px;
+    margin-right: 10px;
+  }
+  nav ul {
+    display: none; 
+  }
+
+  .search_section_img {
+    width: 200px;
+    height: 35px;
+    margin-left: 10px; 
+  }
+
+  .profile_img,
+  .wishlist_img,
+  .bag_img {
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  .coupen_img {
+    width: 95%;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  .main_banner {
+    width: 100%;
+    height: 210px;
+  }                     
+  .Luxe_grand_heading,    /*group selector */
+  .category-heading ,
+  .rising-stars-container {
+    padding-left: 20px;
+    letter-spacing: 4px;
+    font-size: 16px;
+  }
+
+  .rising_stars_img1,
+  .rising_stars_img2 {
+    position: static;
+    height: 150px;
+    display:inline-block;
+    
+  }
+  .rising_stars_img1{
+    width: 375px;
+  }
+  .rising_stars_img2{
+    width: 90px;
+  }
+  .Luxe_grand_img1,
+  .Luxe_grand_img2,
+  .Luxe_grand_img3,
+  .Luxe_grand_img4,
+  .Luxe_grand_img5 {
+    position: static;
+    display: inline-block;
+    width: 90px;
+    height: 150px;
+  }
+  .medal_worthy_img1 {
+    position: static;
+    width: 480px;
+    height:200px;
+  }
+  .medal_worthy_img2{
+    width: 0px;
+
+  }
+  
+  .grand_global {
+    height: 220px;  
+  }
+  .grand_global_img1 {
+    position: static;
+    width: 480px;
+    height: 200px;
+    display: inline-block;
+
+  }
+
+  .category-container {
+    height: 600px;
+    margin-top: 10px;
+  }
+
+  .category-heading {
+    padding-left: 20px;
+    letter-spacing: 5px;
+    font-size: 16px;
+  }
+  .shop_img1 {
+     top: 80px;  
+     left: 20px;  
+     width: 65px; 
+     height: 100px; 
+     }
+     .shop_img2{
+        top: 80px;
+        left: 95px;
+        width: 65px;
+        height: 100px;
+    }
+    .shop_img3 {
+        top: 80px;
+        left: 170px;
+        width: 65px;
+        height: 100px;
+    }
+    .shop_img4 {
+        top: 80px;
+        left: 245px;
+        width: 65px;
+        height: 100px;
+    }
+    .shop_img5 {
+        top: 80px;
+        left: 320px;
+        width: 65px;
+        height: 100px;
+    }
+    .shop_img6 {
+        top: 80px;
+        left: 395px;
+        width: 65px;
+        height: 100px;
+    }
+    .shop_img7 {
+    top: 210px;
+    left: 20px;
+    width: 65px;
+    height: 100px;
+    }
+    .shop_img8 {
+    top: 210px;
+    left: 95px;
+    width: 65px;
+    height: 100px;
+    }
+
+    .shop_img10 {
+    top: 210px;
+    left: 170px;
+    width: 65px;
+    height: 100px;
+    }
+
+    .shop_img11 {
+    top: 210px;
+    left: 245px;
+    width: 65px;
+    height: 100px;
+    }
+
+    .shop_img12 {
+    top: 210px;
+    left: 320px;
+    width: 65px;
+    height: 100px;
+    }   
+
+    .shop_img13 {
+    top: 210px;
+    left: 395px;
+    width: 65px;
+    height: 100px;
+    }
+
+    .shop_img14 {
+    top: 340px;
+    left: 20px;
+    width: 65px;
+    height: 100px;
+    }
+    .shop_img15 {
+    top: 340px;
+    left: 95px;
+    width: 65px;
+    height: 100px;
+    }
+    .shop_img16 {
+    top: 340px;
+    left: 170px;
+    width: 65px;
+    height: 100px;
+    }
+    .shop_img17 {
+    top: 340px;
+    left: 245px;
+    width: 65px;
+    height: 100px;
+    }
+    .shop_img18 {
+    top: 340px;
+    left: 320px;
+    width: 65px;
+    height: 100px;
+    }
+
+    .shop_img19 {
+    top: 340px;
+    left: 395px;
+    width: 65px;
+    height: 100px;
+    }
+    .shop_img20 {
+    top: 470px;
+    left: 135px;
+    width: 65px;
+    height: 100px;
+    }
+    .shop_img21 {
+    top: 470px;
+    left: 210px;
+    width: 65px;
+    height: 100px;
+    }
+    .shop_img22 {
+    top: 470px;
+    left: 285px;
+    width: 65px;
+    height: 100px;
+    }
+
+  .footer-top {
+    flex-direction: row;
+    gap: 30px;
+  }
+  .phone {
+    text-align: left;
+    margin-top: 20px;
+  }
+
+}
+
 
